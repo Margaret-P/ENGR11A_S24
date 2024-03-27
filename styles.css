@@ -168,6 +168,11 @@ p {
   margin-bottom: 1rem;
 }
 
+label {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
 abbr[title] {
   -webkit-text-decoration: underline dotted;
           text-decoration: underline dotted;
